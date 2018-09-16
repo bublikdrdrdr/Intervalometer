@@ -87,5 +87,5 @@ ShootingTimer.h (blink led configuration):
 
 I spent 2 days to reduce program size to fit it in Arduino Nano (atmega 168) but... about 450 bytes left and nothing to fix/remove left.
 
-![memodyChange](readme_images/memory.png)
+![memoryChange](readme_images/memory.PNG)
 ![meme](readme_images/soclose.jpg)
